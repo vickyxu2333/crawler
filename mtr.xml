@@ -1,0 +1,829 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<mtr xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<record>
+		<Line>Airport Express</Line>
+		<StationCode>AWE</StationCode>
+		<EnglishName>AsiaWorld-Expo</EnglishName>
+		<Sequence>1</Sequence>
+		<Coordinates>lat-long: 22°19′18″N - 113°56′28″E</Coordinates>
+	</record>
+	<record>
+		<Line>Airport Express</Line>
+		<StationCode>AIR</StationCode>
+		<EnglishName>Airport</EnglishName>
+		<Sequence>2</Sequence>
+		<Coordinates>latitude=[22°18′58″N] longitude=[113°56′12″E]</Coordinates>
+	</record>
+	<record>
+		<Line>Airport Express</Line>
+		<StationCode>TSY</StationCode>
+		<EnglishName>Tsing Yi</EnglishName>
+		<Sequence>3</Sequence>
+		<Coordinates>lat: 22°21′30″N long: 114°06′25″E</Coordinates>
+	</record>
+	<record>
+		<Line>Airport Express</Line>
+		<StationCode>KOW</StationCode>
+		<EnglishName>Kowloon</EnglishName>
+		<Sequence>4</Sequence>
+		<Coordinates>latitude=[22°18′18″N] longitude=[114°09′41″E]</Coordinates>
+	</record>
+	<record>
+		<Line>Airport Express</Line>
+		<StationCode>HOK</StationCode>
+		<EnglishName>Hong Kong</EnglishName>
+		<Sequence>5</Sequence>
+		<Coordinates>lat-long: 22°17′06″N - 114°09′29″E</Coordinates>
+	</record>
+	<record>
+		<Line>Disneyland Resort Line</Line>
+		<StationCode>SUN</StationCode>
+		<EnglishName>Sunny Bay</EnglishName>
+		<Sequence>1</Sequence>
+		<Coordinates>latitude=[22°19′54″N] longitude=[114°01′44″E]</Coordinates>
+	</record>
+	<record>
+		<Line>Disneyland Resort Line</Line>
+		<StationCode>DIS</StationCode>
+		<EnglishName>Disneyland Resort</EnglishName>
+		<Sequence>2</Sequence>
+		<Coordinates>lat-long: 22°18′56″N - 114°02′42″E</Coordinates>
+	</record>
+	<record>
+		<Line>East Rail Line - Lo Wu</Line>
+		<StationCode>LOW</StationCode>
+		<EnglishName>Lo Wu</EnglishName>
+		<Sequence>1</Sequence>
+		<Coordinates>latitude=[22°31′42″N] longitude=[114°06′48″E]</Coordinates>
+	</record>
+	<record>
+		<Line>East Rail Line - Lo Wu</Line>
+		<StationCode>SHS</StationCode>
+		<EnglishName>Sheung Shui</EnglishName>
+		<Sequence>2</Sequence>
+		<Coordinates>lat: 22°30′04″N long: 114°07′41″E</Coordinates>
+	</record>
+	<record>
+		<Line>East Rail Line - Lo Wu</Line>
+		<StationCode>FAN</StationCode>
+		<EnglishName>Fanling</EnglishName>
+		<Sequence>3</Sequence>
+		<Coordinates>latitude=[22°29′32″N] longitude=[114°08′19″E]</Coordinates>
+	</record>
+	<record>
+		<Line>East Rail Line - Lo Wu</Line>
+		<StationCode>TWO</StationCode>
+		<EnglishName>Tai Wo</EnglishName>
+		<Sequence>4</Sequence>
+		<Coordinates>lat-long: 22°27′04″N - 114°09′40″E</Coordinates>
+	</record>
+	<record>
+		<Line>East Rail Line - Lo Wu</Line>
+		<StationCode>TAP</StationCode>
+		<EnglishName>Tai Po Market</EnglishName>
+		<Sequence>5</Sequence>
+		<Coordinates>latitude=[22°26′41″N] longitude=[114°10′14″E]</Coordinates>
+	</record>
+	<record>
+		<Line>East Rail Line - Lo Wu</Line>
+		<StationCode>UNI</StationCode>
+		<EnglishName>University</EnglishName>
+		<Sequence>6</Sequence>
+		<Coordinates>lat-long: 22°24′48″N - 114°12′37″E</Coordinates>
+	</record>
+	<record>
+		<Line>East Rail Line - Lo Wu</Line>
+		<StationCode>FOT</StationCode>
+		<EnglishName>Fo Tan</EnglishName>
+		<Sequence>7</Sequence>
+		<Coordinates>latitude=[22°23′43″N] longitude=[114°11′54″E]</Coordinates>
+	</record>
+	<record>
+		<Line>East Rail Line - Lo Wu</Line>
+		<StationCode>SHT</StationCode>
+		<EnglishName>Sha Tin</EnglishName>
+		<Sequence>8</Sequence>
+		<Coordinates>lat: 22°22′57″N long: 114°11′15″E</Coordinates>
+	</record>
+	<record>
+		<Line>East Rail Line - Lo Wu</Line>
+		<StationCode>TAW</StationCode>
+		<EnglishName>Tai Wai</EnglishName>
+		<Sequence>9</Sequence>
+		<Coordinates>latitude=[22°22′23″N] longitude=[114°10′43″E]</Coordinates>
+	</record>
+	<record>
+		<Line>East Rail Line - Lo Wu</Line>
+		<StationCode>KOT</StationCode>
+		<EnglishName>Kowloon Tong</EnglishName>
+		<Sequence>10</Sequence>
+		<Coordinates>lat-long: 22°20′13″N - 114°10′34″E</Coordinates>
+	</record>
+	<record>
+		<Line>East Rail Line - Lo Wu</Line>
+		<StationCode>MKK</StationCode>
+		<EnglishName>Mong Kok East</EnglishName>
+		<Sequence>11</Sequence>
+		<Coordinates>latitude=[22°19′20″N] longitude=[114°10′22″E]</Coordinates>
+	</record>
+	<record>
+		<Line>East Rail Line - Lo Wu</Line>
+		<StationCode>HUH</StationCode>
+		<EnglishName>Hung Hom</EnglishName>
+		<Sequence>12</Sequence>
+		<Coordinates>lat-long: 22°18′10″N - 114°10′54″E</Coordinates>
+	</record>
+	<record>
+		<Line>East Rail Line - Lok Ma Chau</Line>
+		<StationCode>LMC</StationCode>
+		<EnglishName>Lok Ma Chau</EnglishName>
+		<Sequence>1</Sequence>
+		<Coordinates>latitude=[22°30′52″N] longitude=[114°03′57″E]</Coordinates>
+	</record>
+	<record>
+		<Line>East Rail Line - Lok Ma Chau</Line>
+		<StationCode>SHS</StationCode>
+		<EnglishName>Sheung Shui</EnglishName>
+		<Sequence>2</Sequence>
+		<Coordinates>lat: 22°30′04″N long: 114°07′41″E</Coordinates>
+	</record>
+	<record>
+		<Line>Island Line</Line>
+		<StationCode>CHW</StationCode>
+		<EnglishName>Chai Wan</EnglishName>
+		<Sequence>1</Sequence>
+		<Coordinates>latitude=[22°15′52″N] longitude=[114°14′12″E]</Coordinates>
+	</record>
+	<record>
+		<Line>Island Line</Line>
+		<StationCode>HFC</StationCode>
+		<EnglishName>Heng Fa Chuen</EnglishName>
+		<Sequence>2</Sequence>
+		<Coordinates>lat-long: 22°16′37″N - 114°14′23″E</Coordinates>
+	</record>
+	<record>
+		<Line>Island Line</Line>
+		<StationCode>SKW</StationCode>
+		<EnglishName>Shau Kei Wan</EnglishName>
+		<Sequence>3</Sequence>
+		<Coordinates>latitude=[22°16′44″N] longitude=[114°13′44″E]</Coordinates>
+	</record>
+	<record>
+		<Line>Island Line</Line>
+		<StationCode>SWH</StationCode>
+		<EnglishName>Sai Wan Ho</EnglishName>
+		<Sequence>4</Sequence>
+		<Coordinates>lat-long: 22°16′54″N - 114°13′21″E</Coordinates>
+	</record>
+	<record>
+		<Line>Island Line</Line>
+		<StationCode>TAK</StationCode>
+		<EnglishName>Tai Koo</EnglishName>
+		<Sequence>5</Sequence>
+		<Coordinates>latitude=[22°17′05″N] longitude=[114°12′58″E]</Coordinates>
+	</record>
+	<record>
+		<Line>Island Line</Line>
+		<StationCode>QUB</StationCode>
+		<EnglishName>Quarry Bay</EnglishName>
+		<Sequence>6</Sequence>
+		<Coordinates>lat: 22°17′16″N long: 114°12′35″E</Coordinates>
+	</record>
+	<record>
+		<Line>Island Line</Line>
+		<StationCode>NOP</StationCode>
+		<EnglishName>North Point</EnglishName>
+		<Sequence>7</Sequence>
+		<Coordinates>latitude=[22°17′27″N] longitude=[114°12′03″E]</Coordinates>
+	</record>
+	<record>
+		<Line>Island Line</Line>
+		<StationCode>FOH</StationCode>
+		<EnglishName>Fortress Hill</EnglishName>
+		<Sequence>8</Sequence>
+		<Coordinates>lat-long: 22°17′17″N - 114°11′37″E</Coordinates>
+	</record>
+	<record>
+		<Line>Island Line</Line>
+		<StationCode>TIH</StationCode>
+		<EnglishName>Tin Hau</EnglishName>
+		<Sequence>9</Sequence>
+		<Coordinates>latitude=[22°16′58″N] longitude=[114°11′30″E]</Coordinates>
+	</record>
+	<record>
+		<Line>Island Line</Line>
+		<StationCode>CAB</StationCode>
+		<EnglishName>Causeway Bay</EnglishName>
+		<Sequence>10</Sequence>
+		<Coordinates>lat-long: 22°16′49″N - 114°11′01″E</Coordinates>
+	</record>
+	<record>
+		<Line>Island Line</Line>
+		<StationCode>WAC</StationCode>
+		<EnglishName>Wan Chai</EnglishName>
+		<Sequence>11</Sequence>
+		<Coordinates>latitude=[22°16′38″N] longitude=[114°10′22″E]</Coordinates>
+	</record>
+	<record>
+		<Line>Island Line</Line>
+		<StationCode>ADM</StationCode>
+		<EnglishName>Admiralty</EnglishName>
+		<Sequence>12</Sequence>
+		<Coordinates>lat: 22°16′44″N long: 114°09′53″E</Coordinates>
+	</record>
+	<record>
+		<Line>Island Line</Line>
+		<StationCode>CEN</StationCode>
+		<EnglishName>Central</EnglishName>
+		<Sequence>13</Sequence>
+		<Coordinates>latitude=[22°16′55″N] longitude=[114°09′27″E]</Coordinates>
+	</record>
+	<record>
+		<Line>Island Line</Line>
+		<StationCode>SHW</StationCode>
+		<EnglishName>Sheung Wan</EnglishName>
+		<Sequence>14</Sequence>
+		<Coordinates>lat-long: 22°17′10″N - 114°09′06″E</Coordinates>
+	</record>
+	<record>
+		<Line>Island Line</Line>
+		<StationCode>SYP</StationCode>
+		<EnglishName>Sai Ying Pun</EnglishName>
+		<Sequence>15</Sequence>
+		<Coordinates>latitude=[22°17′08″N] longitude=[114°08′34″E]</Coordinates>
+	</record>
+	<record>
+		<Line>Island Line</Line>
+		<StationCode>HKU</StationCode>
+		<EnglishName>HKU</EnglishName>
+		<Sequence>16</Sequence>
+		<Coordinates>lat-long: 22°17′03″N - 114°08′08″E</Coordinates>
+	</record>
+	<record>
+		<Line>Island Line</Line>
+		<StationCode>KET</StationCode>
+		<EnglishName>Kennedy Town</EnglishName>
+		<Sequence>17</Sequence>
+		<Coordinates>latitude=[22°16′52″N] longitude=[114°07′43″E]</Coordinates>
+	</record>
+	<record>
+		<Line>Kwun Tong Line</Line>
+		<StationCode>TIK</StationCode>
+		<EnglishName>Tiu Keng Leng</EnglishName>
+		<Sequence>1</Sequence>
+		<Coordinates>lat: 22°18′15″N long: 114°15′09″E</Coordinates>
+	</record>
+	<record>
+		<Line>Kwun Tong Line</Line>
+		<StationCode>YAT</StationCode>
+		<EnglishName>Yau Tong</EnglishName>
+		<Sequence>2</Sequence>
+		<Coordinates>latitude=[22°17′52″N] longitude=[114°14′14″E]</Coordinates>
+	</record>
+	<record>
+		<Line>Kwun Tong Line</Line>
+		<StationCode>LAT</StationCode>
+		<EnglishName>Lam Tin</EnglishName>
+		<Sequence>3</Sequence>
+		<Coordinates>lat-long: 22°18′24″N - 114°13′59″E</Coordinates>
+	</record>
+	<record>
+		<Line>Kwun Tong Line</Line>
+		<StationCode>KWT</StationCode>
+		<EnglishName>Kwun Tong</EnglishName>
+		<Sequence>4</Sequence>
+		<Coordinates>latitude=[22°18′44″N] longitude=[114°13′35″E]</Coordinates>
+	</record>
+	<record>
+		<Line>Kwun Tong Line</Line>
+		<StationCode>NTK</StationCode>
+		<EnglishName>Ngau Tau Kok</EnglishName>
+		<Sequence>5</Sequence>
+		<Coordinates>lat-long: 22°18′55″N - 114°13′09″E</Coordinates>
+	</record>
+	<record>
+		<Line>Kwun Tong Line</Line>
+		<StationCode>KOB</StationCode>
+		<EnglishName>Kowloon Bay</EnglishName>
+		<Sequence>6</Sequence>
+		<Coordinates>latitude=[22°19′25″N] longitude=[114°12′51″E]</Coordinates>
+	</record>
+	<record>
+		<Line>Kwun Tong Line</Line>
+		<StationCode>CHH</StationCode>
+		<EnglishName>Choi Hung</EnglishName>
+		<Sequence>7</Sequence>
+		<Coordinates>lat: 22°20′05″N long: 114°12′32″E</Coordinates>
+	</record>
+	<record>
+		<Line>Kwun Tong Line</Line>
+		<StationCode>DIH</StationCode>
+		<EnglishName>Diamond Hill</EnglishName>
+		<Sequence>8</Sequence>
+		<Coordinates>latitude=[22°20′24″N] longitude=[114°12′06″E]</Coordinates>
+	</record>
+	<record>
+		<Line>Kwun Tong Line</Line>
+		<StationCode>WTS</StationCode>
+		<EnglishName>Wong Tai Sin</EnglishName>
+		<Sequence>9</Sequence>
+		<Coordinates>lat-long: 22°20′30″N - 114°11′38″E</Coordinates>
+	</record>
+	<record>
+		<Line>Kwun Tong Line</Line>
+		<StationCode>LOF</StationCode>
+		<EnglishName>Lok Fu</EnglishName>
+		<Sequence>10</Sequence>
+		<Coordinates>latitude=[22°20′17″N] longitude=[114°11′14″E]</Coordinates>
+	</record>
+	<record>
+		<Line>Kwun Tong Line</Line>
+		<StationCode>KOT</StationCode>
+		<EnglishName>Kowloon Tong</EnglishName>
+		<Sequence>11</Sequence>
+		<Coordinates>lat-long: 22°20′13″N - 114°10′34″E</Coordinates>
+	</record>
+	<record>
+		<Line>Kwun Tong Line</Line>
+		<StationCode>SKM</StationCode>
+		<EnglishName>Shek Kip Mei</EnglishName>
+		<Sequence>12</Sequence>
+		<Coordinates>latitude=[22°19′55″N] longitude=[114°10′07″E]</Coordinates>
+	</record>
+	<record>
+		<Line>Kwun Tong Line</Line>
+		<StationCode>PRE</StationCode>
+		<EnglishName>Prince Edward</EnglishName>
+		<Sequence>13</Sequence>
+		<Coordinates>lat: 22°19′28″N long: 114°10′06″E</Coordinates>
+	</record>
+	<record>
+		<Line>Kwun Tong Line</Line>
+		<StationCode>MOK</StationCode>
+		<EnglishName>Mong Kok</EnglishName>
+		<Sequence>14</Sequence>
+		<Coordinates>latitude=[22°19′09″N] longitude=[114°10′10″E]</Coordinates>
+	</record>
+	<record>
+		<Line>Kwun Tong Line</Line>
+		<StationCode>YMT</StationCode>
+		<EnglishName>Yau Ma Tei</EnglishName>
+		<Sequence>15</Sequence>
+		<Coordinates>lat-long: 22°18′46″N - 114°10′15″E</Coordinates>
+	</record>
+	<record>
+		<Line>Kwun Tong Line</Line>
+		<StationCode>HOM</StationCode>
+		<EnglishName>Ho Man Tin</EnglishName>
+		<Sequence>16</Sequence>
+		<Coordinates>latitude=[22°18′33″N] longitude=[114°10′58″E]</Coordinates>
+	</record>
+	<record>
+		<Line>Kwun Tong Line</Line>
+		<StationCode>WHA</StationCode>
+		<EnglishName>Whampo</EnglishName>
+		<Sequence>17</Sequence>
+		<Coordinates>lat-long: 22°18′18″N - 114°11′23″E</Coordinates>
+	</record>
+	<record>
+		<Line>Ma On Shan Line</Line>
+		<StationCode>WKS</StationCode>
+		<EnglishName>Wu Kai Sha</EnglishName>
+		<Sequence>1</Sequence>
+		<Coordinates>latitude=[22°25′45″N] longitude=[114°14′38″E]</Coordinates>
+	</record>
+	<record>
+		<Line>Ma On Shan Line</Line>
+		<StationCode>MOS</StationCode>
+		<EnglishName>Ma On Shan</EnglishName>
+		<Sequence>2</Sequence>
+		<Coordinates>lat: 22°25′29″N long: 114°13′54″E</Coordinates>
+	</record>
+	<record>
+		<Line>Ma On Shan Line</Line>
+		<StationCode>HEO</StationCode>
+		<EnglishName>Heng On</EnglishName>
+		<Sequence>3</Sequence>
+		<Coordinates>latitude=[22°25′03″N] longitude=[114°13′33″E]</Coordinates>
+	</record>
+	<record>
+		<Line>Ma On Shan Line</Line>
+		<StationCode>TSH</StationCode>
+		<EnglishName>Tai Shui Hang</EnglishName>
+		<Sequence>4</Sequence>
+		<Coordinates>lat-long: 22°24′32″N - 114°13′23″E</Coordinates>
+	</record>
+	<record>
+		<Line>Ma On Shan Line</Line>
+		<StationCode>SHM</StationCode>
+		<EnglishName>Shek Mun</EnglishName>
+		<Sequence>5</Sequence>
+		<Coordinates>latitude=[22°23′16″N] longitude=[114°12′30″E]</Coordinates>
+	</record>
+	<record>
+		<Line>Ma On Shan Line</Line>
+		<StationCode>CIO</StationCode>
+		<EnglishName>City One</EnglishName>
+		<Sequence>6</Sequence>
+		<Coordinates>lat-long: 22°22′58″N - 114°12′13″E</Coordinates>
+	</record>
+	<record>
+		<Line>Ma On Shan Line</Line>
+		<StationCode>STW</StationCode>
+		<EnglishName>Sha Tin Wai</EnglishName>
+		<Sequence>7</Sequence>
+		<Coordinates>latitude=[22°22′38″N] longitude=[114°11′42″E]</Coordinates>
+	</record>
+	<record>
+		<Line>Ma On Shan Line</Line>
+		<StationCode>CKT</StationCode>
+		<EnglishName>Che Kung Temple</EnglishName>
+		<Sequence>8</Sequence>
+		<Coordinates>lat: 22°22′29″N long: 114°11′10″E</Coordinates>
+	</record>
+	<record>
+		<Line>Ma On Shan Line</Line>
+		<StationCode>TAW</StationCode>
+		<EnglishName>Tai Wai</EnglishName>
+		<Sequence>9</Sequence>
+		<Coordinates>latitude=[22°22′23″N] longitude=[114°10′43″E]</Coordinates>
+	</record>
+	<record>
+		<Line>Ma On Shan Line</Line>
+		<StationCode>HIK</StationCode>
+		<EnglishName>Hin Keng</EnglishName>
+		<Sequence>10</Sequence>
+		<Coordinates>lat-long: 22°21′50″N - 114°10′15″E</Coordinates>
+	</record>
+	<record>
+		<Line>Ma On Shan Line</Line>
+		<StationCode>DIH</StationCode>
+		<EnglishName>Diamond Hill</EnglishName>
+		<Sequence>11</Sequence>
+		<Coordinates>latitude=[22°20′24″N] longitude=[114°12′06″E]</Coordinates>
+	</record>
+	<record>
+		<Line>Ma On Shan Line</Line>
+		<StationCode>KAT</StationCode>
+		<EnglishName>Kai Tak</EnglishName>
+		<Sequence>12</Sequence>
+		<Coordinates>lat-long: 22°19′49″N - 114°11′58″E</Coordinates>
+	</record>
+	<record>
+		<Line>Tung Chung Line</Line>
+		<StationCode>TUC</StationCode>
+		<EnglishName>Tung Chung</EnglishName>
+		<Sequence>1</Sequence>
+		<Coordinates>latitude=[22°17′21″N] longitude=[113°56′30″E]</Coordinates>
+	</record>
+	<record>
+		<Line>Tung Chung Line</Line>
+		<StationCode>SUN</StationCode>
+		<EnglishName>Sunny Bay</EnglishName>
+		<Sequence>2</Sequence>
+		<Coordinates>lat: 22°19′54″N long: 114°01′44″E</Coordinates>
+	</record>
+	<record>
+		<Line>Tung Chung Line</Line>
+		<StationCode>TSY</StationCode>
+		<EnglishName>Tsing Yi</EnglishName>
+		<Sequence>3</Sequence>
+		<Coordinates>latitude=[22°21′30″N] longitude=[114°06′25″E]</Coordinates>
+	</record>
+	<record>
+		<Line>Tung Chung Line</Line>
+		<StationCode>LAK</StationCode>
+		<EnglishName>Lai King</EnglishName>
+		<Sequence>4</Sequence>
+		<Coordinates>lat-long: 22°20′54″N - 114°07′34″E</Coordinates>
+	</record>
+	<record>
+		<Line>Tung Chung Line</Line>
+		<StationCode>NAC</StationCode>
+		<EnglishName>Nam Cheong</EnglishName>
+		<Sequence>5</Sequence>
+		<Coordinates>latitude=[22°19′36″N] longitude=[114°09′12″E]</Coordinates>
+	</record>
+	<record>
+		<Line>Tung Chung Line</Line>
+		<StationCode>OLY</StationCode>
+		<EnglishName>Olympic</EnglishName>
+		<Sequence>6</Sequence>
+		<Coordinates>lat-long: 22°19′04″N - 114°09′37″E</Coordinates>
+	</record>
+	<record>
+		<Line>Tung Chung Line</Line>
+		<StationCode>KOW</StationCode>
+		<EnglishName>Kowloon</EnglishName>
+		<Sequence>7</Sequence>
+		<Coordinates>latitude=[22°18′18″N] longitude=[114°09′41″E]</Coordinates>
+	</record>
+	<record>
+		<Line>Tung Chung Line</Line>
+		<StationCode>HOK</StationCode>
+		<EnglishName>Hong Kong</EnglishName>
+		<Sequence>8</Sequence>
+		<Coordinates>lat: 22°17′06″N long: 114°09′29″E</Coordinates>
+	</record>
+	<record>
+		<Line>Tseung Kwan O Line</Line>
+		<StationCode>POA</StationCode>
+		<EnglishName>Po Lam</EnglishName>
+		<Sequence>1</Sequence>
+		<Coordinates>latitude=[22°19′21″N] longitude=[114°15′29″E]</Coordinates>
+	</record>
+	<record>
+		<Line>Tseung Kwan O Line</Line>
+		<StationCode>HAH</StationCode>
+		<EnglishName>Hang Hau</EnglishName>
+		<Sequence>2</Sequence>
+		<Coordinates>lat-long: 22°18′56″N - 114°15′52″E</Coordinates>
+	</record>
+	<record>
+		<Line>Tseung Kwan O Line</Line>
+		<StationCode>TKO</StationCode>
+		<EnglishName>Tseung Kwan O</EnglishName>
+		<Sequence>3</Sequence>
+		<Coordinates>latitude=[22°18′27″N] longitude=[114°15′36″E]</Coordinates>
+	</record>
+	<record>
+		<Line>Tseung Kwan O Line</Line>
+		<StationCode>TIK</StationCode>
+		<EnglishName>Tiu Keng Leng</EnglishName>
+		<Sequence>4</Sequence>
+		<Coordinates>lat-long: 22°18′15″N - 114°15′09″E</Coordinates>
+	</record>
+	<record>
+		<Line>Tseung Kwan O Line</Line>
+		<StationCode>YAT</StationCode>
+		<EnglishName>Yau Tong</EnglishName>
+		<Sequence>5</Sequence>
+		<Coordinates>latitude=[22°17′52″N] longitude=[114°14′14″E]</Coordinates>
+	</record>
+	<record>
+		<Line>Tseung Kwan O Line</Line>
+		<StationCode>QUB</StationCode>
+		<EnglishName>Quarry Bay</EnglishName>
+		<Sequence>6</Sequence>
+		<Coordinates>lat: 22°17′16″N long: 114°12′35″E</Coordinates>
+	</record>
+	<record>
+		<Line>Tseung Kwan O Line</Line>
+		<StationCode>NOP</StationCode>
+		<EnglishName>North Point</EnglishName>
+		<Sequence>7</Sequence>
+		<Coordinates>latitude=[22°17′27″N] longitude=[114°12′03″E]</Coordinates>
+	</record>
+	<record>
+		<Line>Tseung Kwan O Line - Tiu Keng Leng</Line>
+		<StationCode>LHP</StationCode>
+		<EnglishName>LOHAS Park</EnglishName>
+		<Sequence>1</Sequence>
+		<Coordinates>lat-long: 22°17′45″N - 114°16′08″E</Coordinates>
+	</record>
+	<record>
+		<Line>Tseung Kwan O Line - Tiu Keng Leng</Line>
+		<StationCode>TKO</StationCode>
+		<EnglishName>Tseung Kwan O</EnglishName>
+		<Sequence>2</Sequence>
+		<Coordinates>latitude=[22°18′27″N] longitude=[114°15′36″E]</Coordinates>
+	</record>
+	<record>
+		<Line>Tseung Kwan O Line - Tiu Keng Leng</Line>
+		<StationCode>TIK</StationCode>
+		<EnglishName>Tiu Keng Leng</EnglishName>
+		<Sequence>3</Sequence>
+		<Coordinates>lat-long: 22°18′15″N - 114°15′09″E</Coordinates>
+	</record>
+	<record>
+		<Line>Tsuen Wan Line</Line>
+		<StationCode>TSW</StationCode>
+		<EnglishName>Tsuen Wan</EnglishName>
+		<Sequence>1</Sequence>
+		<Coordinates>latitude=[22°22′25″N] longitude=[114°07′04″E]</Coordinates>
+	</record>
+	<record>
+		<Line>Tsuen Wan Line</Line>
+		<StationCode>TWH</StationCode>
+		<EnglishName>Tai Wo Hau</EnglishName>
+		<Sequence>2</Sequence>
+		<Coordinates>lat: 22°22′15″N long: 114°07′30″E</Coordinates>
+	</record>
+	<record>
+		<Line>Tsuen Wan Line</Line>
+		<StationCode>KWH</StationCode>
+		<EnglishName>Kwai Hing</EnglishName>
+		<Sequence>3</Sequence>
+		<Coordinates>latitude=[22°21′48″N] longitude=[114°07′52″E]</Coordinates>
+	</record>
+	<record>
+		<Line>Tsuen Wan Line</Line>
+		<StationCode>KWF</StationCode>
+		<EnglishName>Kwai Fong</EnglishName>
+		<Sequence>4</Sequence>
+		<Coordinates>lat-long: 22°21′25″N - 114°07′40″E</Coordinates>
+	</record>
+	<record>
+		<Line>Tsuen Wan Line</Line>
+		<StationCode>LAK</StationCode>
+		<EnglishName>Lai King</EnglishName>
+		<Sequence>5</Sequence>
+		<Coordinates>latitude=[22°20′54″N] longitude=[114°07′34″E]</Coordinates>
+	</record>
+	<record>
+		<Line>Tsuen Wan Line</Line>
+		<StationCode>MEF</StationCode>
+		<EnglishName>Mei Foo</EnglishName>
+		<Sequence>6</Sequence>
+		<Coordinates>lat-long: 22°20′17″N - 114°08′15″E</Coordinates>
+	</record>
+	<record>
+		<Line>Tsuen Wan Line</Line>
+		<StationCode>LCK</StationCode>
+		<EnglishName>Lai Chi Kok</EnglishName>
+		<Sequence>7</Sequence>
+		<Coordinates>latitude=[22°20′14″N] longitude=[114°08′54″E]</Coordinates>
+	</record>
+	<record>
+		<Line>Tsuen Wan Line</Line>
+		<StationCode>CSW</StationCode>
+		<EnglishName>Cheung Sha Wan</EnglishName>
+		<Sequence>8</Sequence>
+		<Coordinates>lat: 22°20′07″N long: 114°09′23″E</Coordinates>
+	</record>
+	<record>
+		<Line>Tsuen Wan Line</Line>
+		<StationCode>SSP</StationCode>
+		<EnglishName>Sham Shui Po</EnglishName>
+		<Sequence>9</Sequence>
+		<Coordinates>latitude=[22°19′51″N] longitude=[114°09′44″E]</Coordinates>
+	</record>
+	<record>
+		<Line>Tsuen Wan Line</Line>
+		<StationCode>PRE</StationCode>
+		<EnglishName>Prince Edward</EnglishName>
+		<Sequence>10</Sequence>
+		<Coordinates>lat-long: 22°19′28″N - 114°10′06″E</Coordinates>
+	</record>
+	<record>
+		<Line>Tsuen Wan Line</Line>
+		<StationCode>MOK</StationCode>
+		<EnglishName>Mong Kok</EnglishName>
+		<Sequence>11</Sequence>
+		<Coordinates>latitude=[22°19′09″N] longitude=[114°10′10″E]</Coordinates>
+	</record>
+	<record>
+		<Line>Tsuen Wan Line</Line>
+		<StationCode>YMT</StationCode>
+		<EnglishName>Yau Ma Tei</EnglishName>
+		<Sequence>12</Sequence>
+		<Coordinates>lat-long: 22°18′46″N - 114°10′15″E</Coordinates>
+	</record>
+	<record>
+		<Line>Tsuen Wan Line</Line>
+		<StationCode>JOR</StationCode>
+		<EnglishName>Jordan</EnglishName>
+		<Sequence>13</Sequence>
+		<Coordinates>latitude=[22°18′18″N] longitude=[114°10′18″E]</Coordinates>
+	</record>
+	<record>
+		<Line>Tsuen Wan Line</Line>
+		<StationCode>TST</StationCode>
+		<EnglishName>Tsim Sha Tsui</EnglishName>
+		<Sequence>14</Sequence>
+		<Coordinates>lat: 22°17′50″N long: 114°10′20″E</Coordinates>
+	</record>
+	<record>
+		<Line>Tsuen Wan Line</Line>
+		<StationCode>ADM</StationCode>
+		<EnglishName>Admiralty</EnglishName>
+		<Sequence>15</Sequence>
+		<Coordinates>latitude=[22°16′44″N] longitude=[114°09′53″E]</Coordinates>
+	</record>
+	<record>
+		<Line>Tsuen Wan Line</Line>
+		<StationCode>CEN</StationCode>
+		<EnglishName>Central</EnglishName>
+		<Sequence>16</Sequence>
+		<Coordinates>lat-long: 22°16′55″N - 114°09′27″E</Coordinates>
+	</record>
+	<record>
+		<Line>West Rail Line</Line>
+		<StationCode>TUM</StationCode>
+		<EnglishName>Tuen Mun</EnglishName>
+		<Sequence>1</Sequence>
+		<Coordinates>latitude=[22°23′43″N] longitude=[113°58′23″E]</Coordinates>
+	</record>
+	<record>
+		<Line>West Rail Line</Line>
+		<StationCode>SIH</StationCode>
+		<EnglishName>Siu Hong</EnglishName>
+		<Sequence>2</Sequence>
+		<Coordinates>lat-long: 22°24′43″N - 113°58′43″E</Coordinates>
+	</record>
+	<record>
+		<Line>West Rail Line</Line>
+		<StationCode>TIS</StationCode>
+		<EnglishName>Tin Shui Wai</EnglishName>
+		<Sequence>3</Sequence>
+		<Coordinates>latitude=[22°26′53″N] longitude=[114°00′17″E]</Coordinates>
+	</record>
+	<record>
+		<Line>West Rail Line</Line>
+		<StationCode>LOP</StationCode>
+		<EnglishName>Long Ping</EnglishName>
+		<Sequence>4</Sequence>
+		<Coordinates>lat: 22°26′52″N long: 114°01′31″E</Coordinates>
+	</record>
+	<record>
+		<Line>West Rail Line</Line>
+		<StationCode>YUL</StationCode>
+		<EnglishName>Yuen Long</EnglishName>
+		<Sequence>5</Sequence>
+		<Coordinates>latitude=[22°26′46″N] longitude=[114°02′07″E]</Coordinates>
+	</record>
+	<record>
+		<Line>West Rail Line</Line>
+		<StationCode>KSR</StationCode>
+		<EnglishName>Kam Sheung Road</EnglishName>
+		<Sequence>6</Sequence>
+		<Coordinates>lat-long: 22°26′05″N - 114°03′48″E</Coordinates>
+	</record>
+	<record>
+		<Line>West Rail Line</Line>
+		<StationCode>TWW</StationCode>
+		<EnglishName>Tsuen Wan West</EnglishName>
+		<Sequence>7</Sequence>
+		<Coordinates>latitude=[22°22′07″N] longitude=[114°06′35″E]</Coordinates>
+	</record>
+	<record>
+		<Line>West Rail Line</Line>
+		<StationCode>MEF</StationCode>
+		<EnglishName>Mei Foo</EnglishName>
+		<Sequence>8</Sequence>
+		<Coordinates>lat-long: 22°20′17″N - 114°08′15″E</Coordinates>
+	</record>
+	<record>
+		<Line>West Rail Line</Line>
+		<StationCode>NAC</StationCode>
+		<EnglishName>Nam Cheong</EnglishName>
+		<Sequence>9</Sequence>
+		<Coordinates>latitude=[22°19′36″N] longitude=[114°09′12″E]</Coordinates>
+	</record>
+	<record>
+		<Line>West Rail Line</Line>
+		<StationCode>AUS</StationCode>
+		<EnglishName>Austin</EnglishName>
+		<Sequence>10</Sequence>
+		<Coordinates>lat: 22°18′17″N long: 114°09′59″E</Coordinates>
+	</record>
+	<record>
+		<Line>West Rail Line</Line>
+		<StationCode>ETS</StationCode>
+		<EnglishName>East Tsim Sha Tsui</EnglishName>
+		<Sequence>11</Sequence>
+		<Coordinates>latitude=[22°17′44″N] longitude=[114°10′31″E]</Coordinates>
+	</record>
+	<record>
+		<Line>West Rail Line</Line>
+		<StationCode>HUH</StationCode>
+		<EnglishName>Hung Hom</EnglishName>
+		<Sequence>12</Sequence>
+		<Coordinates>lat-long: 22°18′10″N - 114°10′54″E</Coordinates>
+	</record>
+	<record>
+		<Line>South Island Line</Line>
+		<StationCode>SOH</StationCode>
+		<EnglishName>South Horizons</EnglishName>
+		<Sequence>1</Sequence>
+		<Coordinates>latitude=[22°14′33″N] longitude=[114°08′57″E]</Coordinates>
+	</record>
+	<record>
+		<Line>South Island Line</Line>
+		<StationCode>LET</StationCode>
+		<EnglishName>Lei Tung</EnglishName>
+		<Sequence>2</Sequence>
+		<Coordinates>lat-long: 22°14′32″N - 114°09′22″E</Coordinates>
+	</record>
+	<record>
+		<Line>South Island Line</Line>
+		<StationCode>WCH</StationCode>
+		<EnglishName>Wong Chuk Hang</EnglishName>
+		<Sequence>3</Sequence>
+		<Coordinates>latitude=[22°14′53″N] longitude=[114°10′05″E]</Coordinates>
+	</record>
+	<record>
+		<Line>South Island Line</Line>
+		<StationCode>OCP</StationCode>
+		<EnglishName>Ocean Park</EnglishName>
+		<Sequence>4</Sequence>
+		<Coordinates>lat: 22°14′55″N long: 114°10′27″E</Coordinates>
+	</record>
+	<record>
+		<Line>South Island Line</Line>
+		<StationCode>ADM</StationCode>
+		<EnglishName>Admiralty</EnglishName>
+		<Sequence>5</Sequence>
+		<Coordinates>latitude=[22°16′44″N] longitude=[114°09′53″E]</Coordinates>
+	</record>
+</mtr>
