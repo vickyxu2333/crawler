@@ -1,3 +1,3 @@
 # Crawler
 
-Some crawler program exercises
+Some crawler program from assignments
